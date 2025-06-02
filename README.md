@@ -10,8 +10,6 @@ Too often, hunts are reactive or aimless. This lab is meant to:
 - Record **decision trails** and evidence along the way
 - Share **modular playbooks** for repeatable hunts
 
-This isn’t a dashboard repo — it’s about **thinking like a Tier 3 analyst or detection engineer.**
-
 ## 📂 Folder Structure
 
 | Folder               | Description |
@@ -28,13 +26,6 @@ This isn’t a dashboard repo — it’s about **thinking like a Tier 3 analyst 
 - Sigma rules
 - Windows Event Logs
 - KQL (Azure/Sentinel), Elastic DSL, or grep/Augeas for Linux logs
-
-## 📣 Signal
-Creating this lab signals that you:
-- Think like a **Tier 3 analyst or detection engineer**
-- Understand how to build detection hypotheses
-- Know how to work from **behavior first**, not alert first
-- Can create **repeatable playbooks** for your team
 
 ## 📜 Legal
 Only analyze data from systems you own or have explicit permission to monitor.
